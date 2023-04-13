@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz KORBA</h1>
 <h3 align="center">A passionate Web Developer from Algeria</h3>
+<h3 align="left">Connect with me:</h3>
 
 - 👨‍💻 All of my projects are available at [abdelazizkorba.netlify.com](abdelazizkorba.netlify.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
